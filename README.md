@@ -19,4 +19,4 @@ The objective is to identify the best sectors, countries, and a suitable investm
 
 3. Sector analysis: Understanding the distribution of investments across the eight main sectors. 
 
-![Investment Plan](Investment-Plan.jpeg)
+![Investment Plan](Investment-Plan.jpg)
